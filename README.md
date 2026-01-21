@@ -34,9 +34,10 @@ This project is focused on evaluating computer vision (CV) models for ultrasound
 - **Sprint 5:** Results analysis and documentation.
 
 ## Directory Structure
+```text
 ultrasound-cv-model-evaluations/
 │
-├─ datasets/                  # datasets
+├─ datasets/
 ├─ notebooks/             # experiments and analysis
 ├─ src/
 │  ├─ main.py             # entry point
@@ -44,6 +45,7 @@ ultrasound-cv-model-evaluations/
 │  ├─ models/             # model implementations
 ├─ README.md
 └─ requirements.txt
+```
 
 ## How to Run
 Currently, this repository contains only the initial project structure. Implementation steps will be added incrementally over the coming weeks.
